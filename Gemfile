@@ -7,6 +7,7 @@ group :development do
 end
 
 group :assets do
+  gem 'haml-rails',   '0.3.5'
   gem 'sass-rails',   '3.2.5'
   gem 'coffee-rails', '3.2.2'
 
